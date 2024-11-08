@@ -17,4 +17,4 @@ function makeSubsetOfArray(arr) {
   return subsets;
 }
 
-console.log(makeSubsetOfArray([1, 2]));
+console.log(makeSubsetOfArray([1, 2, 3]));
